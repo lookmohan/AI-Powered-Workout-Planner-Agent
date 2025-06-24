@@ -68,7 +68,7 @@ langflow run
 ### 4. Import the Flow
 - Open your browser at `http://localhost:7860`
 - Click **Import Flow**
-- Upload the provided `W_API_KEY.json` file (or your own customized `.json`)
+- Upload the provided `Diet AI.json` file (or your own customized `.json`)
 
 ### 5. Run a Sample Query
 Example:  
